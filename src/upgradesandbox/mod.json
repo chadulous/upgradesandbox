@@ -1,0 +1,10 @@
+{
+    "entry": "main.js",
+    "id": "upgradesandbox",
+    "version": "0.0.1",
+    "name": "upgrades sandbox",
+    "author": "chadulous",
+    "description": "Allows Free upgrades, missing in other sandbox mods",
+    "website": "github.com/chadulous/upgradesandbox",
+    "settings": {}
+}
